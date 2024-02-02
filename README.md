@@ -17,3 +17,7 @@ Examined data to identify the correlation between customer buying behavior and e
 [Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
 
 Important Note!: The customer dataset was created for learning purposes and the information in it is not real. 
+
+## Final Report
+
+The [final report](instacart_final_report.xlsx) describes the analysis methodology, the results, and the recommendations for Instacart stakeholders. 
